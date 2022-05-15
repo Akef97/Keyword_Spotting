@@ -58,7 +58,7 @@
 #define EI_CLASSIFIER_SLICES_PER_MODEL_WINDOW 3
 
 // Change this to match the Edge Impulse library that you downloaded
-#include <Final_inferencing.h>
+#include <Fire_inferencing.h>
 
 // Other includes
 #include "TFT_eSPI.h" // This should come with Wio Terminal package install
